@@ -9,7 +9,6 @@
       "email": "zhangjunwei@lianluo.com"
     }
   ],
-  "minimum-stability": "stable",
   "autoload": {
     "classmap": [
       "src/"
