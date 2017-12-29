@@ -8,5 +8,13 @@
       "name": "monsterhunter",
       "email": "zhangjunwei@lianluo.com"
     }
-  ]
+  ],
+  "autoload": {
+    "classmap": [
+      "src/"
+    ],
+    "psr-0": {
+      "monsterhunter\\aliyun-openapi-php-sdk\\": "src/"
+    }
+  }
 }
