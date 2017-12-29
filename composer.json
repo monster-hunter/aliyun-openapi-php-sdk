@@ -1,0 +1,10 @@
+"name": "monsterhunter/aliyun-openapi-php-sdk",
+  "description": "yii2-log",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "monsterhunter",
+      "email": "zhangjunwei@lianluo.com"
+    }
+  ],
